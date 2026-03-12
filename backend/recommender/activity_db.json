@@ -1,0 +1,249 @@
+{
+  "Stressed": [
+    "Take a 2‑minute breathing exercise",
+    "Listen to calming instrumental music",
+    "Do a short guided meditation"
+  ],
+  "Fatigued": [
+    "Do light stretching",
+    "Take a short walk",
+    "Drink a cup of herbal tea"
+  ],
+  "Creative": [
+    "Try a quick journaling prompt",
+    "Sketch something simple",
+    "Write a 6‑word story"
+  ],
+  "Focused": [
+    "Use the Pomodoro technique (25/5)",
+    "Write down your top 3 tasks",
+    "Turn off notifications for 30 minutes"
+  ],
+  "Distracted": [
+    "Close unnecessary browser tabs",
+    "Set a 15‑minute focus timer",
+    "Move to a quieter space"
+  ],
+  "Relaxed": [
+    "Listen to soft instrumental music",
+    "Do gentle yoga stretches",
+    "Read a few pages of a book"
+  ],
+  "Anxious": [
+    "Practice box breathing",
+    "Write down your worries",
+    "Do a grounding exercise (5‑4‑3‑2‑1)"
+  ],
+  "Bored": [
+    "Try a puzzle or riddle",
+    "Learn a new fact",
+    "Sketch or doodle freely"
+  ],
+  "Overwhelmed": [
+    "Break tasks into smaller steps",
+    "Write a quick to‑do list",
+    "Take a 5‑minute pause"
+  ],
+  "Confident": [
+    "Continue working on your main task",
+    "Share your progress with a friend",
+    "Set a new challenge"
+  ],
+  "Curious": [
+    "Read a short article",
+    "Explore a new topic",
+    "Ask yourself a 'what if' question"
+  ],
+  "Calm": [
+    "Sit quietly and observe surroundings",
+    "Sip a warm drink slowly",
+    "Visualize a calm place"
+  ],
+  "Energetic": [
+    "Do 10 jumping jacks",
+    "Dance to upbeat music",
+    "Take a brisk walk"
+  ],
+  "Sleepy": [
+    "Splash cool water on your face",
+    "Stretch your arms and legs",
+    "Take a 10‑minute power nap"
+  ],
+  "Motivated": [
+    "Set a micro‑goal",
+    "Celebrate a small win",
+    "Plan your next step"
+  ],
+  "Lonely": [
+    "Send a message to a friend",
+    "Join an online community",
+    "Write about your feelings"
+  ],
+  "Grateful": [
+    "Write down 3 things you appreciate",
+    "Send a thank‑you note",
+    "Reflect on a positive memory"
+  ],
+  "Frustrated": [
+    "Step away for 5 minutes",
+    "Do a quick breathing reset",
+    "Write down what’s bothering you"
+  ],
+  "Inspired": [
+    "Capture your idea in writing",
+    "Create a quick sketch",
+    "Share your thought with someone"
+  ],
+  "Confused": [
+    "Break down the problem",
+    "Ask for help",
+    "Re‑read instructions slowly"
+  ],
+  "Optimistic": [
+    "Visualize a positive outcome",
+    "Write down your goals",
+    "Share encouragement with a peer"
+  ],
+  "Pessimistic": [
+    "Challenge negative thoughts",
+    "Write one positive counterpoint",
+    "Take a short break"
+  ],
+  "Excited": [
+    "Channel energy into a task",
+    "Share your excitement with a friend",
+    "Plan a fun activity"
+  ],
+  "Neutral": [
+    "Do a quick mindfulness check",
+    "Stretch lightly",
+    "Drink some water"
+  ],
+  "FocusedDeep": [
+    "Continue your current task",
+    "Avoid multitasking",
+    "Set a timer for deep work"
+  ],
+  "DistractedDigital": [
+    "Turn off notifications",
+    "Log out of social media",
+    "Use website blockers"
+  ],
+  "RelaxedEvening": [
+    "Dim the lights",
+    "Listen to calming sounds",
+    "Prepare for restful sleep"
+  ],
+  "MorningFresh": [
+    "Drink a glass of water",
+    "Do light stretching",
+    "Plan your day"
+  ],
+  "AfternoonDip": [
+    "Take a short walk",
+    "Eat a healthy snack",
+    "Do a 2‑minute reset"
+  ],
+  "Social": [
+    "Call a friend",
+    "Join a group chat",
+    "Share something positive"
+  ],
+  "Reflective": [
+    "Write in a journal",
+    "Think about your day",
+    "List lessons learned"
+  ],
+  "Playful": [
+    "Play a quick game",
+    "Tell a joke",
+    "Do something silly"
+  ],
+  "Mindful": [
+    "Focus on your breath",
+    "Notice 5 things around you",
+    "Do a short meditation"
+  ],
+  "Productive": [
+    "Check off a task",
+    "Organize your workspace",
+    "Plan the next step"
+  ],
+  
+  "Hopeful": [
+    "Write down one goal for today",
+    "Visualize a positive outcome",
+    "Share encouragement with a friend"
+  ],
+  "Determined": [
+    "Set a clear micro‑goal",
+    "Eliminate one distraction",
+    "Track progress for 15 minutes"
+  ],
+  "RelaxedMorning": [
+    "Stretch lightly after waking",
+    "Drink a glass of water",
+    "Plan three priorities for the day"
+  ],
+  "EveningTired": [
+    "Dim the lights",
+    "Do gentle yoga stretches",
+    "Prepare for restful sleep"
+  ],
+  "PlayfulMood": [
+    "Tell a joke",
+    "Play a quick game",
+    "Dance to fun music"
+  ],
+  "ReflectiveMood": [
+    "Write in a journal",
+    "Think about your day",
+    "List lessons learned"
+  ],
+  "SocialMood": [
+    "Call a friend",
+    "Join a group chat",
+    "Share something positive"
+  ],
+  "MindfulMood": [
+    "Focus on your breath",
+    "Notice 5 things around you",
+    "Do a short meditation"
+  ],
+  "ProductiveMood": [
+    "Check off a task",
+    "Organize your workspace",
+    "Plan the next step"
+  ],
+  "CuriousMood": [
+    "Read a short article",
+    "Explore a new topic",
+    "Ask yourself a 'what if' question"
+  ],
+  "InspiredMood": [
+    "Capture your idea in writing",
+    "Create a quick sketch",
+    "Share your thought with someone"
+  ],
+  "FrustratedMood": [
+    "Step away for 5 minutes",
+    "Do a quick breathing reset",
+    "Write down what’s bothering you"
+  ],
+  "LonelyMood": [
+    "Send a message to a friend",
+    "Join an online community",
+    "Write about your feelings"
+  ],
+  "OptimisticMood": [
+    "Visualize a positive outcome",
+    "Write down your goals",
+    "Share encouragement with a peer"
+  ],
+  "PessimisticMood": [
+    "Challenge negative thoughts",
+    "Write one positive counterpoint",
+    "Take a short break"
+  ]
+
+}
