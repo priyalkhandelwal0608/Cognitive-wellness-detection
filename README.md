@@ -20,7 +20,7 @@ This project demonstrates **end‑to‑end ML engineering, feature extraction, r
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 COGNITIVE WELLNESS/
