@@ -1,22 +1,26 @@
 #  Cognitive Wellness AI Companion
 
-##  Overview
-The **Cognitive Wellness AI Companion** is a machine learning–powered web application that promotes mental clarity and productivity.  
-It analyzes user inputs — **mood/thoughts, step count, and heart rate** — to classify cognitive states (e.g., *Stressed, Fatigued, Creative, Focused*) and delivers personalized micro‑activity recommendations.
-
-This project demonstrates **end‑to‑end ML engineering, feature extraction, recommendation systems, and deployment with Flask + Docker**, making it a strong portfolio piece.
+A machine learning-powered web application designed to enhance mental clarity and productivity. By analyzing physiological signals and user sentiment, the system classifies cognitive states (e.g., *Stressed, Fatigued, Focused*) and provides personalized micro-activity recommendations.
 
 ---
 
-##  Features
-- **Signals:** Text input, step count, heart rate  
-- **State Classification:** Rule‑based + ML classifier for 50+ states  
-- **Recommendation Engine:** JSON‑based micro‑activity database  
-- **Frontend:** Flask + HTML/CSS with modern UI styling  
-- **EDA Notebook:** Exploratory data analysis with pandas, seaborn, matplotlib  
-- **Deployment:** Dockerized for portability  
+##  Key Features
 
+* **Multimodal Analysis:** Integrates text-based mood/thoughts with physical data (Step Count & Heart Rate).
+* **State Classification:** Uses a hybrid Rule-based + ML classifier to identify 50+ unique cognitive/emotional states.
+* **Intelligent Recommendations:** Powered by a Reinforcement Learning (RL) engine that adapts to user feedback over time.
+* **Data-Driven Insights:** Includes an Exploratory Data Analysis (EDA) suite for visualizing wellness trends.
+* **Modern UI:** Responsive dashboard built with Flask, HTML5, and CSS3.
 
+---
+
+##  Tech Stack
+
+* **Backend:** Python, Flask
+* **Machine Learning:** Scikit-learn, NumPy, Pandas
+* **Personalization:** Reinforcement Learning (Custom RL Engine)
+* **Data Visualization:** Matplotlib, Seaborn
+* **DevOps:** Docker (Optional), Requirements-based Environment
 
 ---
 
@@ -26,15 +30,15 @@ This project demonstrates **end‑to‑end ML engineering, feature extraction, r
 COGNITIVE WELLNESS/
 ├── backend/
 │   ├── recommender/
-│   │   ├── activity_db.json    # Database of wellness activities & metadata
-│   │   └── rl_engine.py         # Reinforcement Learning logic for personalized recs
+│   │   ├── activity_db.json     # JSON database of wellness activities
+│   │   └── rl_engine.py         # Reinforcement Learning logic for recs
 │   ├── utils/
-│   │   └── state_classifier.py  # ML model to classify cognitive/emotional states
-│   └── app.py                  # Flask/FastAPI server connecting backend to UI
+│   │   └── state_classifier.py  # ML model for cognitive state classification
+│   └── app.py                   # Main Flask server (Entry Point)
 ├── notebooks/
-│   └── eda.py                  # Exploratory Data Analysis & prototyping (converted script)
+│   └── eda.py                   # EDA & Prototyping script
 ├── static/
-│   └── style.css               # Frontend styling
+│   └── style.css                # Dashboard styling
 ├── templates/
-│   └── index.html              # Main dashboard user interface
-└── requirements.txt            # Project dependencies (NumPy, Scikit-learn, Flask, etc.)
+│   └── index.html               # Frontend User Interface
+└── requirements.txt             # Project dependencies
