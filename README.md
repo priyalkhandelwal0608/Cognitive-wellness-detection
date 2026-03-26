@@ -23,6 +23,10 @@ A machine learning-powered web application designed to enhance mental clarity an
 * **DevOps:** Docker (Optional), Requirements-based Environment
 
 ---
+## Install dependencies
+* pip install -r requirements.txt
+* python backend/app.py
+* python notebooks/eda.py
 
 ##  Project Structure
 
